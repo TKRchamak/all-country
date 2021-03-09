@@ -1,0 +1,18 @@
+.countyStyle{
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+}
+.countyStyle img{
+    width: 200px;
+    height: auto;
+    padding: 15px;
+}
+.countryButton{
+    padding: 5px 15px;
+    margin: 10px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: 1px solid darkgoldenrod;
+}
